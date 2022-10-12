@@ -1,0 +1,12 @@
+module Table
+  module Export
+    module Jquery
+      module Plugin
+        module Rails
+          VERSION: String
+          # See the writing guide of rbs: https://github.com/ruby/rbs#guides
+        end
+      end
+    end
+  end
+end
