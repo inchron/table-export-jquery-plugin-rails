@@ -5,7 +5,7 @@ module Table
     module Jquery
       module Plugin
         module Rails
-          VERSION = "1.10.20"
+          VERSION = "1.26.0"
         end
       end
     end
